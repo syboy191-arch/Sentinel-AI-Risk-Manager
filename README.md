@@ -72,7 +72,7 @@ The frontend is built with:
 
 Current Pages
 
-``text
+```text
 /                  → Dashboard
 /transactions      → Transactions
 /simulator         → Transaction Simulator
@@ -120,7 +120,7 @@ Sentinel-AI-Risk-Manager/
 │       └── vite.config.ts
 │
 └── README.md
-
+```
 ⚙️ Backend
 
 The backend is built using:
