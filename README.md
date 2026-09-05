@@ -270,7 +270,9 @@ sentinel/backend/
 
 activate the Python environment and run:
 
-uvicorn main:app --reload
+cd "C:\Users\syboy\OneDrive\Desktop\Sentinel AI\sentinel\frontend"
+  npm run dev
+
 
 Backend:
 
